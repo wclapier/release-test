@@ -1,2 +1,0 @@
-"Guid","AccountId","AssetProvidedById","AssetServicedById","ContactId","Description","InstallDate","IsCompetitorProduct","IsInternal","Name","ParentId","Price","PurchaseDate","Quantity","SerialNumber","Status","UsageEndDate"
-b93a710d-bd88-499e-87e2-45f39f5c98a6,a3bac45f-1d07-4a78-9a50-5fafb0dbef3f,"#N/A","#N/A",013c1ab0-5ffa-4dae-9509-6f5186959e08,"#N/A",2020-12-02,true,false,Test Asset,"#N/A",54545.0,2020-12-02,1.0,5,Purchased,2020-12-02
