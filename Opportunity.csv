@@ -1,0 +1,2 @@
+"Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","StageName","Type"
+8483673d-e2c0-4adf-9dcb-f774b0f997e1,4ad65e69-0885-45a6-b6cd-2f2697028409,20000.0,2020-12-02,"#N/A","#N/A",Pipeline,Trade Show,Test opportunity,"#N/A",10.0,Prospecting,Existing Business
