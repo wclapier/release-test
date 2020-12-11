@@ -1,2 +1,0 @@
-"Guid","AccountId","Comments","ContactId","Description","IsEscalated","Origin","ParentId","Priority","Reason","Status","Subject","SuppliedCompany","SuppliedEmail","SuppliedName","SuppliedPhone","Type"
-c4cc97e9-5be0-4d61-a206-f26ad78e0386,bb96ee04-c84c-4ba6-824e-7ad9195aff3d,"#N/A",3c192f20-91ea-4e86-a346-0e1096152437,"#N/A",false,Email,"#N/A",Medium,User didn't attend training,New,Test,"#N/A","#N/A","#N/A","#N/A",Problem
