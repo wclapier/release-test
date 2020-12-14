@@ -1,4 +1,0 @@
-"Guid","AccountId","Comments","ContactId","Description","IsEscalated","Origin","ParentId","Priority","Reason","Status","Subject","SuppliedCompany","SuppliedEmail","SuppliedName","SuppliedPhone","Type"
-8b9386c1-2ce0-4f25-8ff8-15db9cbfa8f7,bc9ba85f-f217-4f15-9306-f60fe04d76b3,"#N/A",86f39664-49c7-4f60-8fe4-54adb24a6cfb,"#N/A",false,Email,"#N/A",Medium,"#N/A",On Hold,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-a62e5502-aace-46fe-83fa-180acd0c4164,e752547b-98c3-4f82-b672-ab1fd10b23e8,"#N/A",55e0e370-eb5a-4115-b576-bdbdc66285bd,"#N/A",false,Email,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-d36ab3fa-231f-485e-b426-3ec609270d22,be811bf2-5972-4021-b16b-7ee405deb202,"#N/A",9a3135b0-d959-4478-8a9a-b5c74eda2443,"#N/A",false,Email,"#N/A",Medium,"#N/A",On Hold,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
