@@ -1,6 +1,0 @@
-"Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","StageName","Type"
-25046e1b-737b-404d-92ba-79fb20357a4c,cdc39344-bf0e-4207-b46d-bd30944d022b,"#N/A",2020-12-14,"#N/A","#N/A",Pipeline,"#N/A",Test 2 Opportunity,"#N/A",50.0,Value Proposition,"#N/A"
-7c45a46a-6edb-47f0-bd10-3cacf6eae9ea,d3c3e82a-372b-4808-bd50-a1cc831b8843,"#N/A",2020-12-24,"#N/A","#N/A",Pipeline,"#N/A",NEWOPPO,"#N/A",20.0,Needs Analysis,"#N/A"
-af04395c-9488-4dbc-8856-b697d55cd92e,b662f59a-8cd1-4b5b-a778-1a197dfa048c,"#N/A",2020-12-14,"#N/A","#N/A",Pipeline,"#N/A",Amendment for contract #00000192,"#N/A",10.0,Prospecting,"#N/A"
-b531f3fd-7311-4206-9e6f-07ccae165af2,b662f59a-8cd1-4b5b-a778-1a197dfa048c,"#N/A",2020-12-14,"#N/A","#N/A",Best Case,"#N/A",Test Opportunity,"#N/A",100.0,Prospecting,"#N/A"
-f87a4424-ccb9-4cf5-bb4f-4914bc452cb5,b662f59a-8cd1-4b5b-a778-1a197dfa048c,"#N/A",2020-12-14,"#N/A","#N/A",Pipeline,"#N/A",Amendment for contract #00000192,"#N/A",10.0,Prospecting,"#N/A"
