@@ -1,12 +1,11 @@
 "Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","IsPrivate","LeadSource","Name","NextStep","Probability","StageName","TotalOpportunityQuantity","Type"
 010c98fd-de98-4978-88e3-831f9afb8329,29bd7020-adc5-4bb2-b86a-45ffaeb45c54,20000.0,2020-12-02,"#N/A","#N/A",Pipeline,false,Trade Show,Test opportunity,"#N/A",10.0,Prospecting,"#N/A",Existing Business
-136d4460-28a5-42ca-b4e5-0cecfb63fc6e,fd8ee49c-ed78-4a61-89e5-b0b35e607ed5,"#N/A",2020-08-28,"#N/A","#N/A",Pipeline,false,"#N/A",Fakey Fakey Fakey,"#N/A",10.0,Qualification,"#N/A","#N/A"
 1595dedb-4eee-41c6-9039-757dfb2657e9,be53b406-e779-4412-8a72-0f4d528f3b4c,20000.0,2020-12-02,"#N/A","#N/A",Pipeline,false,Trade Show,Test opportunity,"#N/A",10.0,Prospecting,"#N/A",Existing Business
 201c1a23-2f5b-442e-b47c-425e488f8f54,d6e23c21-31d9-477d-bbe3-0a36ea2f7349,235000.0,2018-02-19,"#N/A","#N/A",Closed,false,External Referral,United Oil Installations,"#N/A",100.0,Closed Won,"#N/A",Existing Customer - Upgrade
 430372c2-624a-4d1f-a447-3ae6fe57b354,d6e23c21-31d9-477d-bbe3-0a36ea2f7349,270000.0,2018-02-19,"#N/A","#N/A",Pipeline,false,"#N/A",United Oil Installations,"#N/A",90.0,Negotiation/Review,"#N/A",Existing Customer - Upgrade
 6b0c34d4-5c0f-44fb-8e40-d0411b74f7c9,d6e23c21-31d9-477d-bbe3-0a36ea2f7349,675000.0,2018-02-19,"#N/A","#N/A",Pipeline,false,"#N/A",United Oil Plant Standby Generators,"#N/A",20.0,Needs Analysis,"#N/A",Existing Customer - Upgrade
 78048265-891c-4a7c-8bfd-054beffd07d9,d6e23c21-31d9-477d-bbe3-0a36ea2f7349,120000.0,2018-02-19,"#N/A","#N/A",Closed,false,External Referral,United Oil Standby Generators,"#N/A",100.0,Closed Won,"#N/A",Existing Customer - Upgrade
-8105bca3-9de2-4374-b1c4-29d25859d7e1,6b0b06f3-ad87-44b5-ab79-8a6394dd0374,60000.0,2018-02-19,"#N/A","#N/A",Pipeline,false,"#N/A",GenePoint Lab Generators v2,"#N/A",60.0,Id. Decision Makers,"#N/A","#N/A"
+8105bca3-9de2-4374-b1c4-29d25859d7e1,6b0b06f3-ad87-44b5-ab79-8a6394dd0374,60000.0,2018-02-19,"#N/A","#N/A",Pipeline,false,"#N/A",GenePoint Lab Generators,"#N/A",60.0,Id. Decision Makers,"#N/A","#N/A"
 98331e15-51f1-4354-b06c-498530681a3f,6b0b06f3-ad87-44b5-ab79-8a6394dd0374,30000.0,2018-02-19,"#N/A","#N/A",Closed,false,Partner,GenePoint SLA,"#N/A",100.0,Closed Won,"#N/A",Existing Customer - Upgrade
 9ca06655-6220-45be-9560-ae388c9daf01,d6e23c21-31d9-477d-bbe3-0a36ea2f7349,125000.0,2018-02-19,"#N/A","#N/A",Pipeline,false,"#N/A",United Oil Office Portable Generators,"#N/A",90.0,Negotiation/Review,"#N/A",Existing Customer - Upgrade
 aac4ccf5-b147-4a0e-bacd-5762dc197b0d,cefb0863-d692-45ee-9d6c-b9e283301956,235000.0,2018-02-19,"#N/A","#N/A",Closed,false,Web,Burlington Textiles Weaving Plant Generator,"#N/A",100.0,Closed Won,"#N/A",New Customer
