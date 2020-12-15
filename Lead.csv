@@ -1,3 +1,87 @@
-"Guid","AnnualRevenue","City","Company","Country","Description","Email","EmailBouncedReason","FirstName","GeocodeAccuracy","Industry","IsConverted","IsUnreadByOwner","Jigsaw","LastName","Latitude","LeadSource","Longitude","NumberOfEmployees","Phone","PostalCode","Rating","Salutation","State","Status","Street","Title","Website"
-2034086b-8269-4098-ab2c-0d73de114fc0,"#N/A","#N/A",Test Pvt Ltd 2,"#N/A","#N/A","#N/A","#N/A",Test 2 Lead,"#N/A","#N/A",false,true,"#N/A",Singh,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",New,"#N/A","#N/A","#N/A"
-3c052259-d3fe-43e7-ba70-5bc03a1c7e68,"#N/A","#N/A",Test Pvt Ltd,"#N/A","#N/A","#N/A","#N/A",Test Lead 1,"#N/A","#N/A",false,true,"#N/A",Sharma,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",New,"#N/A","#N/A","#N/A"
+"Guid","AnnualRevenue","City","Company","CompanyDunsNumber","Country","CurrentGenerators__c","Description","Email","EmailBouncedReason","Fax","FirstName","GeocodeAccuracy","Industry","IsConverted","IsUnreadByOwner","Jigsaw","LastName","Latitude","LeadSource","Longitude","MobilePhone","NumberOfEmployees","NumberofLocations__c","Phone","PostalCode","Primary__c","ProductInterest__c","Rating","SICCode__c","Salutation","State","Status","Street","Title","Website"
+0d378cb9-1dfc-470c-ae7a-e66540c4365b,"#N/A","#N/A",Greenwich Media,"#N/A",USA,All,"#N/A",norm_may@greenwich.net,"#N/A","#N/A",Norm,"#N/A","#N/A",false,true,"#N/A",May,"#N/A",Web,"#N/A","#N/A","#N/A",130.0,(419) 289-3555,"#N/A",Yes,GC5000 series,"#N/A",2768,Mr,OH,Working - Contacted,"#N/A","VP, Facilities","#N/A"
+12d48518-9b08-4516-89e4-8c134888c6e6,"#N/A","#N/A",TNR Corp.,"#N/A",USA,All,"#N/A",ksynder@tnr.net,"#N/A","#N/A",Kathy,"#N/A","#N/A",false,true,"#N/A",Snyder,"#N/A",Purchased List,"#N/A","#N/A","#N/A",130.0,(860) 273-0123,"#N/A",Yes,GC5000 series,"#N/A",2768,Ms,CT,Working - Contacted,"#N/A",Regional General Manager,"#N/A"
+1a856272-1d68-431e-b699-af2fb5d42788,44.0,Jaipur,Test Pvt Ltd,"#N/A",India,"#N/A","jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,",vish@gmai.com,"#N/A","#N/A",Krishna,"#N/A",Healthcare,false,true,"#N/A",Sharma,"#N/A",Advertisement,"#N/A","#N/A",545,"#N/A",5456466,302020,"#N/A","#N/A",Warm,"#N/A",Mr.,rajasthan,New,Kalyan,Test,www.case.com
+1c46eb67-72ff-4d72-a794-d3fd01dd7653,44.0,Jaipur,Test Pvt Ltd,"#N/A",India,"#N/A","jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,",vish@gmai.com,"#N/A","#N/A",Krishna,"#N/A",Healthcare,false,true,"#N/A",Sharma,"#N/A",Advertisement,"#N/A","#N/A",545,"#N/A",5456466,302020,"#N/A","#N/A",Warm,"#N/A",Mr.,rajasthan,New,Kalyan,Test,www.case.com
+20264122-71ca-41be-b9a4-532955103b44,"#N/A","#N/A",American Banking Corp.,"#N/A",USA,All,"#N/A",bblair@abankingco.com,"#N/A","#N/A",Betty,"#N/A","#N/A",false,true,"#N/A",Bair,"#N/A",Purchased List,"#N/A","#N/A","#N/A",130.0,(610) 265-9100,"#N/A",Yes,GC5000 series,"#N/A",2768,Ms,PA,Working - Contacted,"#N/A","VP, Administration","#N/A"
+21264102-08c9-494a-8a85-be6ab665ee5d,"#N/A","#N/A",Pyramid Construction Inc.,"#N/A",France,All,"#N/A",pat@pyramid.net,"#N/A","#N/A",Pat,"#N/A","#N/A",false,true,"#N/A",Stumuller,"#N/A",Phone Inquiry,"#N/A","#N/A","#N/A",130.0,33562156600,"#N/A",Yes,GC5000 series,"#N/A",2768,Ms,"#N/A",Closed - Converted,"#N/A","SVP, Administration and Finance","#N/A"
+21441c52-9b8f-412c-a3f3-5778e4489865,3.5E8,Burlington,Burlington Textiles Corp of America,"#N/A",USA,John Deere,"#N/A",jrogers@btca.com,"#N/A",(336) 222-8000,Jack,"#N/A",Apparel,false,true,"#N/A",Rogers,"#N/A",Web,"#N/A","#N/A",9000,3.0,(336) 222-7000,27215,Yes,GC5000 series,Warm,7267,Mr.,NC,Closed - Converted,525 S. Lexington Ave,"VP, Facilities","#N/A"
+2a79b9a8-6e3c-41b9-96e0-a0acd6fc3f44,"#N/A","#N/A",Blues Entertainment Corp.,"#N/A",Japan,All,"#N/A",david@blues.com,"#N/A","#N/A",David,"#N/A","#N/A",false,true,"#N/A",Monaco,"#N/A",Purchased List,"#N/A","#N/A","#N/A",130.0,(033) 452-1299,"#N/A",Yes,GC5000 series,"#N/A",2768,Mr,"#N/A",Working - Contacted,"#N/A",CFO,"#N/A"
+3068afb1-f8f8-4b8d-adb4-7974f538c272,44.0,Jaipur,Test Pvt Ltd,"#N/A",India,"#N/A","jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,",vish@gmai.com,"#N/A","#N/A",Krishna,"#N/A",Healthcare,false,true,"#N/A",Sharma,"#N/A",Advertisement,"#N/A","#N/A",545,"#N/A",5456466,302020,"#N/A","#N/A",Warm,"#N/A",Mr.,rajasthan,New,Kalyan,Test,www.case.com
+355b73f8-dd09-4e57-b9a1-aa91fae4d25e,"#N/A","#N/A",Western Telecommunications Corp.,"#N/A",USA,All,"#N/A",shellyb@westerntelecom.com,"#N/A","#N/A",Shelly,"#N/A","#N/A",false,true,"#N/A",Brownell,"#N/A",Partner Referral,"#N/A","#N/A","#N/A",130.0,(408) 326-9000,"#N/A",Yes,GC5000 series,"#N/A",2768,Ms,CA,Working - Contacted,"#N/A","SVP, Technology","#N/A"
+37918d25-1ad1-48f9-8ee1-d54764bdde59,"#N/A","#N/A",Aethna Home Products,"#N/A",USA,All,"#N/A",kakin@athenahome.com,"#N/A","#N/A",Kristen,"#N/A","#N/A",false,true,"#N/A",Akin,"#N/A",Partner Referral,"#N/A","#N/A","#N/A",130.0,(434) 369-3100,"#N/A",Yes,GC5000 series,"#N/A",2768,Ms,VA,Working - Contacted,"#N/A","Director, Warehouse Mgmt","#N/A"
+37c5ddc2-9070-4434-85df-e2a1ea512a87,"#N/A","#N/A",Hendrickson Trading,"#N/A",USA,John Deere,"#N/A",pam_owenby@hendricksontrading.com,"#N/A","#N/A",Pamela,"#N/A","#N/A",false,true,"#N/A",Owenby,"#N/A",Partner Referral,"#N/A","#N/A","#N/A",3.0,(570) 326-1571,"#N/A",Yes,GC5000 series,"#N/A",7267,Ms,PA,Closed - Not Converted,"#N/A","SVP, Technology","#N/A"
+4326b660-1cf9-4d58-a69c-3c8a6b9fac10,"#N/A","#N/A",Delphi Chemicals,"#N/A",USA,All,"#N/A",tom.james@delphi.chemicals.com,"#N/A","#N/A",Tom,"#N/A","#N/A",false,true,"#N/A",James,"#N/A",Web,"#N/A","#N/A","#N/A",130.0,(952) 346-3500,"#N/A",Yes,GC5000 series,"#N/A",2768,Mr,MN,Working - Contacted,"#N/A","SVP, Production","#N/A"
+521f0254-d701-4885-838c-49db61f7de05,"#N/A","#N/A",Pacific Retail Group,"#N/A",USA,All,"#N/A",eluce@pacificretail.com,"#N/A","#N/A",Eugena,"#N/A","#N/A",false,true,"#N/A",Luce,"#N/A",Purchased List,"#N/A","#N/A","#N/A",130.0,(781) 270-6500,"#N/A",Yes,GC5000 series,"#N/A",2768,Ms,MA,Closed - Not Converted,"#N/A",CEO,"#N/A"
+6583eea6-6706-4bb7-8efd-f2cbdee86ea8,"#N/A","#N/A",Emerson Transport,"#N/A",USA,All,"#N/A",violetm@emersontransport.com,"#N/A","#N/A",Violet,"#N/A","#N/A",false,true,"#N/A",Maccleod,"#N/A",Phone Inquiry,"#N/A","#N/A","#N/A",130.0,(770) 395-2370,"#N/A",Yes,GC5000 series,"#N/A",2768,Ms,GA,Working - Contacted,"#N/A","VP, Finance","#N/A"
+6a2815d8-bdc1-4dfc-a11a-0ba90d1ffe68,44.0,Jaipur,Test Pvt Ltd,"#N/A",India,"#N/A","jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,",vish@gmai.com,"#N/A","#N/A",Krishna,"#N/A",Healthcare,false,true,"#N/A",Sharma,"#N/A",Advertisement,"#N/A","#N/A",545,"#N/A",5456466,302020,"#N/A","#N/A",Warm,"#N/A",Mr.,rajasthan,New,Kalyan,Test,www.case.com
+6d4891ba-06a8-43e3-8e15-193f58e69686,44.0,Jaipur,Test Pvt Ltd,"#N/A",India,"#N/A","jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,",vish@gmai.com,"#N/A","#N/A",Krishna,"#N/A",Healthcare,false,true,"#N/A",Sharma,"#N/A",Advertisement,"#N/A","#N/A",545,"#N/A",5456466,302020,"#N/A","#N/A",Warm,"#N/A",Mr.,rajasthan,New,Kalyan,Test,www.case.com
+92e8a031-c505-48d1-b959-8ab357753fec,"#N/A","#N/A",International Shipping Co.,"#N/A",USA,All,"#N/A",patricia_feager@is.com,"#N/A","#N/A",Patricia,"#N/A","#N/A",false,true,"#N/A",Feager,"#N/A",Partner Referral,"#N/A","#N/A","#N/A",130.0,(336) 777-1970,"#N/A",Yes,GC5000 series,"#N/A",2768,Ms,NC,Working - Contacted,"#N/A",CEO,"#N/A"
+98027cba-f4fc-4b9d-9f76-2909223652ea,"#N/A","#N/A",Highland Manufacturing Ltd.,"#N/A",USA,All,"#N/A",sandra_e@highland.net,"#N/A","#N/A",Sandra,"#N/A","#N/A",false,true,"#N/A",Eberhard,"#N/A",Purchased List,"#N/A","#N/A","#N/A",130.0,(626) 440-0700,"#N/A",Yes,GC5000 series,"#N/A",2768,Ms,CA,Working - Contacted,"#N/A","VP, Production","#N/A"
+9bb6d5bb-5696-490b-ad2b-f0bee9ee2ca4,9.0075E8,Tallahassee,Farmers Coop. of Florida,"#N/A",USA,All,"#N/A",bertha@fcof.net,"#N/A",(850) 644-4300,Bertha,"#N/A",Agriculture,false,true,"#N/A",Boxer,"#N/A",Web,"#N/A","#N/A","#N/A",130.0,(850) 644-4200,32306,Yes,GC5000 series,Hot,2768,Ms.,FL,Working - Contacted,321 Westcott Building,Director of Vendor Relations,"#N/A"
+a1b2d600-642c-4642-af13-54d4ccef64ef,"#N/A","#N/A",Zenith Industrial Partners,"#N/A",USA,John Deere,"#N/A",bill_dadio@zenith.com,"#N/A","#N/A",Bill,"#N/A","#N/A",false,true,"#N/A",Dadio Jr,"#N/A",Web,"#N/A","#N/A","#N/A",3.0,(614) 431-5000,"#N/A",Yes,GC5000 series,"#N/A",7267,Mr,OH,Closed - Not Converted,"#N/A",CFO,"#N/A"
+a736d1be-7a67-4e25-bb20-d80d757a5ae8,"#N/A","#N/A",Jackson Controls,"#N/A",Taiwan,All,"#N/A",jeffg@jackson.com,"#N/A","#N/A",Jeff,"#N/A","#N/A",false,true,"#N/A",Glimpse,"#N/A",Phone Inquiry,"#N/A","#N/A","#N/A",130.0,886-2-25474189,"#N/A",Yes,GC5000 series,"#N/A",2768,Mr,"#N/A",Open - Not Contacted,"#N/A","SVP, Procurement","#N/A"
+a80a6701-617b-4115-ab67-d2ec5104ba4f,"#N/A","#N/A",Metropolitan Health Services,"#N/A",USA,All,"#N/A",likeb@metro.com,"#N/A","#N/A",Mike,"#N/A","#N/A",false,true,"#N/A",Braund,"#N/A",Purchased List,"#N/A","#N/A","#N/A",130.0,(410) 381-2334,"#N/A",Yes,GC5000 series,"#N/A",2768,Mr,MD,Open - Not Contacted,"#N/A","VP, Technology","#N/A"
+ab1363f8-11df-483d-8263-9d4ffa153d8c,"#N/A","#N/A",Ace Iron and Steel Inc.,"#N/A",USA,All,"#N/A",carolync@aceis.com,"#N/A","#N/A",Carolyn,"#N/A","#N/A",false,true,"#N/A",Crenshaw,"#N/A",Phone Inquiry,"#N/A","#N/A","#N/A",130.0,(251) 679-2200,"#N/A",Yes,GC5000 series,"#N/A",2768,Ms,AL,Closed - Not Converted,"#N/A","VP, Technology","#N/A"
+ba7f467b-270a-4b0a-879e-2db2becdb4ca,"#N/A","#N/A",Cadinal Inc.,"#N/A",USA,All,"#N/A",brenda@cardinal.net,"#N/A","#N/A",Brenda,"#N/A","#N/A",false,true,"#N/A",Mcclure,"#N/A",Web,"#N/A","#N/A","#N/A",130.0,(847) 262-5000,"#N/A",Yes,GC5000 series,"#N/A",2768,Ms,IL,Working - Contacted,"#N/A",CFO,"#N/A"
+d5f229c1-6347-4c8a-953e-60150a3fab5a,44.0,Jaipur,Test Pvt Ltd,"#N/A",India,"#N/A","jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,",vish@gmai.com,"#N/A","#N/A",Krishna,"#N/A",Healthcare,false,true,"#N/A",Sharma,"#N/A",Advertisement,"#N/A","#N/A",545,"#N/A",5456466,302020,"#N/A","#N/A",Warm,"#N/A",Mr.,rajasthan,New,Kalyan,Test,www.case.com
+dbe1a640-32a5-45ca-b212-0565975ef8ef,44.0,Jaipur,Test Pvt Ltd,"#N/A",India,"#N/A","jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,",vish@gmai.com,"#N/A","#N/A",Krishna,"#N/A",Healthcare,false,true,"#N/A",Sharma,"#N/A",Advertisement,"#N/A","#N/A",545,"#N/A",5456466,302020,"#N/A","#N/A",Warm,"#N/A",Mr.,rajasthan,New,Kalyan,Test,www.case.com
+e8a43762-9a62-4558-bac3-5d5892fe7bde,"#N/A","#N/A",Abbott Insurance,"#N/A",USA,All,"#N/A",pcotton@abbottins.net,"#N/A","#N/A",Phyllis,"#N/A","#N/A",false,true,"#N/A",Cotton,"#N/A",Web,"#N/A","#N/A","#N/A",130.0,(703) 757-1000,"#N/A",Yes,GC5000 series,"#N/A",2768,Ms,VA,Open - Not Contacted,"#N/A",CFO,"#N/A"
+f4353c1b-8857-414d-8472-1409d2907d80,44.0,Jaipur,Test Pvt Ltd,"#N/A",India,"#N/A","jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
+jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,",vish@gmai.com,"#N/A","#N/A",Krishna,"#N/A",Healthcare,false,true,"#N/A",Sharma,"#N/A",Advertisement,"#N/A","#N/A",545,"#N/A",5456466,302020,"#N/A","#N/A",Warm,"#N/A",Mr.,rajasthan,New,Kalyan,Test,www.case.com
+f7cf1e83-2b14-4cf3-be78-21eb7f377a69,"#N/A","#N/A",Dickenson plc,"#N/A",USA,All,"#N/A",a_young@dickenson.com,"#N/A","#N/A",Andy,"#N/A","#N/A",false,true,"#N/A",Young,"#N/A",Purchased List,"#N/A","#N/A","#N/A",130.0,(620) 241-6200,"#N/A",Yes,GC5000 series,"#N/A",2768,Mr,KS,Closed - Converted,"#N/A","SVP, Operations","#N/A"
