@@ -1,5 +1,5 @@
 "Guid","AccountId","AssetProvidedById","AssetServicedById","ContactId","Description","InstallDate","IsCompetitorProduct","IsInternal","Name","ParentId","Price","PurchaseDate","Quantity","SerialNumber","Status","UsageEndDate"
-9e0bf2bb-4ef7-4fad-8cd4-d39ba0215590,4f6b64fa-39ee-4bfe-938e-bc59ce7714b8,"#N/A","#N/A",2e255950-05da-4bc3-8b52-484c84a3b1dc,"#N/A",2020-12-02,true,false,Test Asset,"#N/A",54545.0,2020-12-02,1.0,5,Purchased,2020-12-02
-9f48671b-18a2-4ccd-80f9-1dc157b6359e,2884b55c-9f49-4691-8c58-b64e5e32834f,"#N/A","#N/A",797c22c4-ee1f-432b-9dec-4dea1c7db295,"#N/A",2020-12-02,true,false,Test Asset,"#N/A",54545.0,2020-12-02,1.0,5,Purchased,2020-12-02
-d51ce427-09ea-4aec-9f51-5fc028336640,a6575933-a424-4a11-9d20-a34fd1df3e68,"#N/A","#N/A",829e4675-cf2d-4605-983f-6becdd39cd9e,"#N/A",2020-12-02,true,false,Test Asset,"#N/A",54545.0,2020-12-02,1.0,5,Purchased,2020-12-02
-d89341ee-73ae-4b9d-bb10-555f85a5586e,bf6d0ae6-e540-4317-9e1e-db4746b0bba2,"#N/A","#N/A",87303105-18b8-419e-ad35-12fbd4816c88,"#N/A",2020-12-02,true,false,Test Asset,"#N/A",54545.0,2020-12-02,1.0,5,Purchased,2020-12-02
+581d8f4f-30d8-4ade-8590-604f0a626b20,69008590-7282-4d88-88a9-d559503a0a70,"#N/A","#N/A",9582a5ef-1598-4ed6-b46a-402047c36d3c,"#N/A",2020-12-02,true,false,Test Asset,"#N/A",54545.0,2020-12-02,1.0,5,Purchased,2020-12-02
+8b36f67e-cd5c-45d1-bfb7-b9790b0a0a66,380050dd-019f-4b8f-a6d7-b363a825e6ef,"#N/A","#N/A",3bd68b01-7f8e-4065-b8b3-e0d9f13a9a06,"#N/A",2020-12-02,true,false,Test Asset,"#N/A",54545.0,2020-12-02,1.0,5,Purchased,2020-12-02
+c8e4df64-2794-4fd1-9458-5db9317343a9,488212c9-8892-4c28-902a-75d7fbedb900,"#N/A","#N/A",a65818ba-3fdc-4bdc-8b21-920b4708dd73,"#N/A",2020-12-02,true,false,Test Asset,"#N/A",54545.0,2020-12-02,1.0,5,Purchased,2020-12-02
+d827d1c7-c655-4391-acaf-d60a214c62bf,3778a563-7aef-4608-864b-6b11e54b724b,"#N/A","#N/A",a29e6e88-9fdc-4e0e-80bf-95e8f6d8b269,"#N/A",2020-12-02,true,false,Test Asset,"#N/A",54545.0,2020-12-02,1.0,5,Purchased,2020-12-02

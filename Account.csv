@@ -1,51 +1,51 @@
 "Guid","AccountNumber","AccountSource","AnnualRevenue","BillingCity","BillingCountry","BillingGeocodeAccuracy","BillingLatitude","BillingLongitude","BillingPostalCode","BillingState","BillingStreet","Description","Fax","Industry","Jigsaw","Name","NumberOfEmployees","OpportunityTest__c","ParentId","Phone","ShippingCity","ShippingCountry","ShippingGeocodeAccuracy","ShippingLatitude","ShippingLongitude","ShippingPostalCode","ShippingState","ShippingStreet"
-2884b55c-9f49-4691-8c58-b64e5e32834f,"#N/A","#N/A",2112121.0,Jaipur,India,"#N/A","#N/A","#N/A",302020,rajasthan,Kalyan,Test,(545) 454-5454,Entertainment,"#N/A",SBI updated Account,5,"#N/A","#N/A",(773) 748-2074,Jaipur,India,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-28b2c69a-6f16-48b0-82e3-5392d6b35126,"#N/A","#N/A",2112121.0,Jaipur,India,"#N/A","#N/A","#N/A",302020,rajasthan,Kalyan,Test,(545) 454-5454,Entertainment,"#N/A",SBI updated Account,5,"#N/A","#N/A",(773) 748-2074,Jaipur,India,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-4d42e4d7-8313-4d5b-8497-07c0b4c5d583,CD656092,"#N/A",3.5E8,Burlington,USA,"#N/A","#N/A","#N/A",27215,NC,525 S. Lexington Ave,"#N/A",(336) 222-8000,Apparel,"#N/A",Burlington Textiles Corp of America,9000,"#N/A","#N/A",(336) 222-7000,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-4f6b64fa-39ee-4bfe-938e-bc59ce7714b8,"#N/A","#N/A",2112121.0,Jaipur,India,"#N/A","#N/A","#N/A",302020,rajasthan,Kalyan,Test,(545) 454-5454,Entertainment,"#N/A",SBI updated Account,5,"#N/A","#N/A",(773) 748-2074,Jaipur,India,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-56ce2644-998d-49c1-a3bf-437cd4876499,CD355119-A,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",UK,"Kings Park, 17th Avenue, Team Valley Trading Estate,
-Gateshead, Tyne and Wear NE26 3HS
-United Kingdom","#N/A",+44 191 4956620,Energy,"#N/A","United Oil & Gas, UK",24000,"#N/A","#N/A",+44 191 4956203,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","Kings Park, 17th Avenue, Team Valley Trading Estate,
-Gateshead, Tyne and Wear NE26 3HS
-United Kingdom"
-61401b7c-94b5-438a-b9cd-fa05db13383b,CD736025,"#N/A","#N/A",Tucson,"#N/A","#N/A","#N/A","#N/A","#N/A",AZ,"888 N Euclid 
+039a4e0d-e8a3-4abd-b7a2-44e59d0206d2,CD656092,"#N/A",3.5E8,Burlington,USA,"#N/A","#N/A","#N/A",27215,NC,525 S. Lexington Ave,"#N/A",(336) 222-8000,Apparel,"#N/A",Burlington Textiles Corp of America,9000,"#N/A","#N/A",(336) 222-7000,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+04be5794-aeee-4871-a101-24c046516f0d,CD439877,"#N/A",5.0E8,Chicago,"#N/A","#N/A","#N/A","#N/A","#N/A",IL,"2334 N. Michigan Avenue, Suite 1500
+Chicago, IL 60601, USA","Chain of hotels and resorts across the US, UK, Eastern Europe, Japan, and SE Asia.",(312) 596-1500,Hospitality,"#N/A",Grand Hotels & Resorts Ltd,5600,"#N/A","#N/A",(312) 596-1000,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","2334 N. Michigan Avenue, Suite 1500
+Chicago, IL 60601, USA"
+076d0379-6813-465b-bbb0-80ac534296e4,CD355118,"#N/A",5.6E9,New York,"#N/A","#N/A","#N/A","#N/A","#N/A",NY,"1301 Avenue of the Americas 
+New York, NY 10019
+USA",World's third largest oil and gas company.,(212) 842-5501,Energy,"#N/A",United Oil & Gas Corp.,145000,"#N/A","#N/A",(212) 842-5500,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","1301 Avenue of the Americas 
+New York, NY 10019
+USA"
+0c9bd31e-8827-4cd0-a6e5-ba54aa23a021,CD451796,"#N/A",1.39E8,Austin,"#N/A","#N/A","#N/A","#N/A","#N/A",TX,"312 Constitution Place
+Austin, TX 78767
+USA","Edge, founded in 1998, is a start-up based in Austin, TX. The company designs and manufactures a device to convert music from one digital format to another. Edge sells its product through retailers and its own website.",(512) 757-9000,Electronics,"#N/A",Edge Communications,1000,"#N/A","#N/A",(512) 757-6000,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","312 Constitution Place
+Austin, TX 78767
+USA"
+3778a563-7aef-4608-864b-6b11e54b724b,"#N/A","#N/A",2112121.0,Jaipur,India,"#N/A","#N/A","#N/A",302020,rajasthan,Kalyan,Test,(545) 454-5454,Entertainment,"#N/A",SBI updated Account,5,"#N/A","#N/A",(773) 748-2074,Jaipur,India,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+380050dd-019f-4b8f-a6d7-b363a825e6ef,"#N/A","#N/A",2112121.0,Jaipur,India,"#N/A","#N/A","#N/A",302020,rajasthan,Kalyan,Test,(545) 454-5454,Entertainment,"#N/A",SBI updated Account,5,"#N/A","#N/A",(773) 748-2074,Jaipur,India,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+4819ff18-7b97-4ea2-b6e8-e0a8b29c8b90,"#N/A","#N/A",2112121.0,Jaipur,India,"#N/A","#N/A","#N/A",302020,rajasthan,Kalyan,Test,(545) 454-5454,Entertainment,"#N/A",SBI updated Account,5,"#N/A","#N/A",(773) 748-2074,Jaipur,India,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+488212c9-8892-4c28-902a-75d7fbedb900,"#N/A","#N/A",2112121.0,Jaipur,India,"#N/A","#N/A","#N/A",302020,rajasthan,Kalyan,Test,(545) 454-5454,Entertainment,"#N/A",SBI updated Account,5,"#N/A","#N/A",(773) 748-2074,Jaipur,India,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+59269ed4-4d3c-4623-bc69-a9219caeb81d,CC978213,"#N/A",3.0E7,Mountain View,"#N/A","#N/A","#N/A","#N/A","#N/A",CA,"345 Shoreline Park
+Mountain View, CA 94043
+USA",Genomics company engaged in mapping and sequencing of the human genome and developing gene-based drugs,(650) 867-9895,Biotechnology,"#N/A",GenePoint,265,"#N/A","#N/A",(650) 867-3450,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","345 Shoreline Park
+Mountain View, CA 94043
+USA"
+69008590-7282-4d88-88a9-d559503a0a70,"#N/A","#N/A",2112121.0,Jaipur,India,"#N/A","#N/A","#N/A",302020,rajasthan,Kalyan,Test,(545) 454-5454,Entertainment,"#N/A",SBI updated Account,5,"#N/A","#N/A",(773) 748-2074,Jaipur,India,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+a64d7cc2-4113-4321-8ea1-7e6188e18808,CC947211,"#N/A",9.5E8,Portland,"#N/A","#N/A","#N/A","#N/A","#N/A",OR,"620 SW 5th Avenue Suite 400
+Portland, Oregon 97204
+United States",Commerical logistics and transportation company.,(503) 421-7801,Transportation,"#N/A",Express Logistics and Transport,12300,"#N/A","#N/A",(503) 421-7800,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","620 SW 5th Avenue Suite 400
+Portland, Oregon 97204
+United States"
+afafb011-616c-4433-8412-c400b6f93fdb,CD355120-B,"#N/A","#N/A",Singapore,"#N/A","#N/A","#N/A","#N/A","#N/A",Singapore,"9 Tagore Lane
+Singapore, Singapore 787472
+Singapore","#N/A",(650) 450-8820,Energy,"#N/A","United Oil & Gas, Singapore",3000,"#N/A","#N/A",(650) 450-8810,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","9 Tagore Lane
+Singapore, Singapore 787472
+Singapore"
+afb4a926-fec0-4b2f-929e-875777e7ea11,"#N/A","#N/A",2112121.0,Jaipur,India,"#N/A","#N/A","#N/A",302020,rajasthan,Kalyan,Test,(545) 454-5454,Entertainment,"#N/A",SBI updated Account,5,"#N/A","#N/A",(773) 748-2074,Jaipur,India,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+b1b396e0-6088-463a-a571-b40be021111f,CD736025,"#N/A","#N/A",Tucson,"#N/A","#N/A","#N/A","#N/A","#N/A",AZ,"888 N Euclid 
 Hallis Center, Room 501
 Tucson, AZ 85721
 United States","Leading university in AZ offering undergraduate and graduate programs in arts and humanities, pure sciences, engineering, business, and medicine.",(520) 773-9060,Education,"#N/A",University of Arizona,39000,"#N/A","#N/A",(520) 773-9050,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","888 N Euclid 
 Hallis Center, Room 501
 Tucson, AZ 85721
 United States"
-63e2ef0b-ed13-479d-9b06-85a6dbef0826,CC947211,"#N/A",9.5E8,Portland,"#N/A","#N/A","#N/A","#N/A","#N/A",OR,"620 SW 5th Avenue Suite 400
-Portland, Oregon 97204
-United States",Commerical logistics and transportation company.,(503) 421-7801,Transportation,"#N/A",Express Logistics and Transport,12300,"#N/A","#N/A",(503) 421-7800,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","620 SW 5th Avenue Suite 400
-Portland, Oregon 97204
-United States"
-6ce47571-05af-4756-9bdb-6f0fc93206cf,"#N/A","#N/A",2112121.0,Jaipur,India,"#N/A","#N/A","#N/A",302020,rajasthan,Kalyan,Test,(545) 454-5454,Entertainment,"#N/A",SBI updated Account,5,"#N/A","#N/A",(773) 748-2074,Jaipur,India,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-7a9072ef-289a-4965-bbd1-bd06eab04f14,CD451796,"#N/A",1.39E8,Austin,"#N/A","#N/A","#N/A","#N/A","#N/A",TX,"312 Constitution Place
-Austin, TX 78767
-USA","Edge, founded in 1998, is a start-up based in Austin, TX. The company designs and manufactures a device to convert music from one digital format to another. Edge sells its product through retailers and its own website.",(512) 757-9000,Electronics,"#N/A",Edge Communications,1000,"#N/A","#N/A",(512) 757-6000,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","312 Constitution Place
-Austin, TX 78767
-USA"
-8d5d58b8-e540-44fa-90ee-e4e9e00b27f7,CD355120-B,"#N/A","#N/A",Singapore,"#N/A","#N/A","#N/A","#N/A","#N/A",Singapore,"9 Tagore Lane
-Singapore, Singapore 787472
-Singapore","#N/A",(650) 450-8820,Energy,"#N/A","United Oil & Gas, Singapore",3000,"#N/A","#N/A",(650) 450-8810,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","9 Tagore Lane
-Singapore, Singapore 787472
-Singapore"
-9294b609-7202-4a59-a991-ca2e87a3b31d,CC213425,"#N/A",9.5E8,Paris,France,"#N/A","#N/A","#N/A",75251,"#N/A",2 Place Jussieu,"#N/A",(014) 427-4428,Construction,"#N/A",Pyramid Construction Inc.,2680,"#N/A","#N/A",(014) 427-4427,Paris,France,"#N/A","#N/A","#N/A",75251,"#N/A",2 Place Jussieu
-981cd0ab-8e22-4d84-aab6-810e97fca4a5,CD355118,"#N/A",5.6E9,New York,"#N/A","#N/A","#N/A","#N/A","#N/A",NY,"1301 Avenue of the Americas 
-New York, NY 10019
-USA",World's third largest oil and gas company.,(212) 842-5501,Energy,"#N/A",United Oil & Gas Corp.,145000,"#N/A","#N/A",(212) 842-5500,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","1301 Avenue of the Americas 
-New York, NY 10019
-USA"
-a6575933-a424-4a11-9d20-a34fd1df3e68,"#N/A","#N/A",2112121.0,Jaipur,India,"#N/A","#N/A","#N/A",302020,rajasthan,Kalyan,Test,(545) 454-5454,Entertainment,"#N/A",SBI updated Account,5,"#N/A","#N/A",(773) 748-2074,Jaipur,India,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-bf6d0ae6-e540-4317-9e1e-db4746b0bba2,"#N/A","#N/A",2112121.0,Jaipur,India,"#N/A","#N/A","#N/A",302020,rajasthan,Kalyan,Test,(545) 454-5454,Entertainment,"#N/A",SBI updated Account,5,"#N/A","#N/A",(773) 748-2074,Jaipur,India,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-d60b42bc-3526-4f3c-93e3-ede193c5867d,"#N/A","#N/A",2112121.0,Jaipur,India,"#N/A","#N/A","#N/A",302020,rajasthan,Kalyan,Test,(545) 454-5454,Entertainment,"#N/A",SBI updated Account,5,"#N/A","#N/A",(773) 748-2074,Jaipur,India,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-d7e42bed-cbb6-4ef8-9c28-c629fd17efad,CD439877,"#N/A",5.0E8,Chicago,"#N/A","#N/A","#N/A","#N/A","#N/A",IL,"2334 N. Michigan Avenue, Suite 1500
-Chicago, IL 60601, USA","Chain of hotels and resorts across the US, UK, Eastern Europe, Japan, and SE Asia.",(312) 596-1500,Hospitality,"#N/A",Grand Hotels & Resorts Ltd,5600,"#N/A","#N/A",(312) 596-1000,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","2334 N. Michigan Avenue, Suite 1500
-Chicago, IL 60601, USA"
-efc8902d-afb4-4521-95e4-61ea4626fd6d,"#N/A","#N/A",2112121.0,Jaipur,India,"#N/A","#N/A","#N/A",302020,rajasthan,Kalyan,Test,(545) 454-5454,Entertainment,"#N/A",SBI updated Account,5,"#N/A","#N/A",(773) 748-2074,Jaipur,India,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-f9b50803-2cad-4bbc-bb97-1781ba33fe9d,CC978213,"#N/A",3.0E7,Mountain View,"#N/A","#N/A","#N/A","#N/A","#N/A",CA,"345 Shoreline Park
-Mountain View, CA 94043
-USA",Genomics company engaged in mapping and sequencing of the human genome and developing gene-based drugs,(650) 867-9895,Biotechnology,"#N/A",GenePoint,265,"#N/A","#N/A",(650) 867-3450,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","345 Shoreline Park
-Mountain View, CA 94043
-USA"
+ba9db29a-a0e4-493d-857f-04bd8260d919,"#N/A","#N/A",2112121.0,Jaipur,India,"#N/A","#N/A","#N/A",302020,rajasthan,Kalyan,Test,(545) 454-5454,Entertainment,"#N/A",SBI updated Account,5,"#N/A","#N/A",(773) 748-2074,Jaipur,India,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+c5292279-20bf-4170-a57a-5f28699e0855,CC213425,"#N/A",9.5E8,Paris,France,"#N/A","#N/A","#N/A",75251,"#N/A",2 Place Jussieu,"#N/A",(014) 427-4428,Construction,"#N/A",Pyramid Construction Inc.,2680,"#N/A","#N/A",(014) 427-4427,Paris,France,"#N/A","#N/A","#N/A",75251,"#N/A",2 Place Jussieu
+c717e2b3-bd4a-49f4-ac35-336a2f968e3e,CD355119-A,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",UK,"Kings Park, 17th Avenue, Team Valley Trading Estate,
+Gateshead, Tyne and Wear NE26 3HS
+United Kingdom","#N/A",+44 191 4956620,Energy,"#N/A","United Oil & Gas, UK",24000,"#N/A","#N/A",+44 191 4956203,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","Kings Park, 17th Avenue, Team Valley Trading Estate,
+Gateshead, Tyne and Wear NE26 3HS
+United Kingdom"
+e94d20ad-4090-4359-b7d3-7b688aa64e58,"#N/A","#N/A",2112121.0,Jaipur,India,"#N/A","#N/A","#N/A",302020,rajasthan,Kalyan,Test,(545) 454-5454,Entertainment,"#N/A",SBI updated Account,5,"#N/A","#N/A",(773) 748-2074,Jaipur,India,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
