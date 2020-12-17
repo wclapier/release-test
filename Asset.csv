@@ -1,2 +1,1 @@
 "Guid","AccountId","AssetProvidedById","AssetServicedById","ContactId","Description","DigitalAssetStatus","ExternalIdentifier","InstallDate","IsCompetitorProduct","IsInternal","ManufactureDate","Name","ParentId","Price","PurchaseDate","Quantity","SerialNumber","Status","StatusReason","UsageEndDate","Uuid"
-3ad666f9-6bda-4c24-8c7e-3258800c324d,718e2145-75a5-4d25-b9b9-43b39ada6dbf,"#N/A","#N/A",fd9c5def-f841-4138-b463-e89d11fa888e,"#N/A","#N/A","#N/A","#N/A",false,false,"#N/A",Test Asset 1,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
