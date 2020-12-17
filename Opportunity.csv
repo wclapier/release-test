@@ -1,3 +1,3 @@
 "Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","StageName","Type"
-1fc17142-8ce2-459e-a90d-0246effdd60a,10ddc0ef-e58d-48ee-a75a-79f6fea4703d,"#N/A",2020-12-24,"#N/A","#N/A",Pipeline,"#N/A",Oppo 1,"#N/A",20.0,Needs Analysis,"#N/A"
+395ee0a7-0da4-4552-b25e-35340fffe922,9f7edaa5-4f38-41a6-9b09-0021267d697a,"#N/A",2020-12-23,"#N/A","#N/A",Pipeline,"#N/A",NEW OPPO,"#N/A",10.0,Qualification,"#N/A"
 f2459b1f-6c5c-43a5-9b94-f5072849ab06,7d66f04a-c4d5-4e81-a7a2-ec5fd17ad63c,"#N/A",2020-12-24,"#N/A","#N/A",Pipeline,"#N/A",Oppo 2,"#N/A",50.0,Value Proposition,"#N/A"
